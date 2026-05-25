@@ -4,7 +4,7 @@
 
 <br>
 
-# 👨‍💻 Geovane Morcatti
+# 👨‍💻 Geovane  de Freitras Queioz Morcatti
 
 ### Desenvolvedor • Pesquisador • Inteligência Artificial • HPC
 
