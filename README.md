@@ -75,3 +75,90 @@ _________________
 
 [![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=geovanemorcatti&theme=default&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
 _________________
+
+
+
+
+<div align="center">
+  <!-- HEADER / CAPA -->
+  <img alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png" width="100%"/>
+
+  <br>---<br>
+
+  <!-- REDES SOCIAIS E CONTATO -->
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/geovanemorcatti" target="_blank">
+          <img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="45px" height="45px" alt="GitHub"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/GEOCREU_SEU_LINKIN_AQUI" target="_blank">
+          <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="45px" height="45px" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td>
+        <a href="mailto:seu.email@exemplo.com" target="_blank">
+          <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="45px" height="45px" alt="Gmail"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://discordapp.com/users/959151773728251914" target="_blank">
+          <img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="45px" height="45px" alt="Discord"/>
+        </a>
+      </td>
+      <td>
+        <a href="http://lattes.cnpq.br/SEU_LATTES_AQUI" target="_blank">
+          <img src="https://joaopauloaramuni.github.io/image/lattes2.png?raw=true" width="45px" height="45px" alt="Lattes"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br>---<br>
+
+  <!-- CONTADOR DE VISITAS -->
+  <img src="https://komarev.com/ghpvc/?username=geovanemorcatti&style=for-the-badge&color=blue" alt="Profile Views" />
+
+  <br><br>
+
+  <!-- CARD DE ESTATÍSTICAS DO GITHUB -->
+  <img src="https://helio-github-stats.vercel.app/api?username=geovanemorcatti&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&show_icons=true&text_bold=true" alt="GitHub Stats" width="480px"/>
+
+  <br><br>
+
+  <!-- CARD DE CONTRIBUIÇÕES (STREAK) -->
+  <img src="https://github-streak-stats-ruby.vercel.app/?user=geovanemorcatti&theme=default&locale=pt_BR" alt="GitHub Streak" width="480px"/>
+
+  <br><br>
+
+  <!-- CARD DO WAKATIME (TEMPO DE CODIFICAÇÃO) -->
+  <table>
+    <tr>
+      <td align="center" colspan="2">⏱️ <a href="https://wakatime.com/@geovanemorcatti">Meu WakaTime</a></td>
+    </tr> 
+    <tr>
+      <td>
+        <img src="https://helio-github-stats.vercel.app/api/wakatime?username=geovanemorcatti&custom_title=WakaTime+Stats&layout=compact&langs_count=8" alt="WakaTime Stats Compact" width="380" loading="lazy"/>
+      </td>
+      <td>
+        <img src="https://helio-github-stats.vercel.app/api/wakatime?username=geovanemorcatti&custom_title=Languages&layout=default&langs_count=7" alt="WakaTime Stats Default" width="380" loading="lazy"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+## 🧠 Sobre Mim
+* 🎓 Mestrando em **Modelagem Matemática e Computacional** no CEFET-MG.
+* 💻 Desenvolvedor focado em **Inteligência Computacional**, **Visão Computacional** e **Cibersegurança**.
+* 🛠️ Experiência prática com processamento de imagens (OpenCV), análise de dados e sistemas de redes.
+* 🐧 Usuário e entusiasta do ecossistema Linux.
+
+## 🛠️ Tecnologias e Ferramentas
+* **Linguagens:** Python, C++
+* **Bibliotecas/Frameworks:** OpenCV, Scikit-Learn, Pandas, NumPy
+* **Ferramentas/Ambientes:** Git, Linux (Nobara/Fedora)
