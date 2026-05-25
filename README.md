@@ -113,7 +113,7 @@
 # 📫 Contato
 
 - **GitHub:** [github.com/geovanemorcatti](https://github.com/geovanemorcatti)
-- **LinkedIn:** SEU_LINKEDIN_AQUI
+- **LinkedIn:** [SEU_LINKEDIN_AQUI](https://lattes.cnpq.br/0550915342503556)
 - **E-mail:** geovanemorcatti@gmail.com
 - **Lattes:** http://lattes.cnpq.br/SEU_LATTES_AQUI
 
